@@ -12,6 +12,14 @@ const config: Config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'main': "url('../assets/bg-illustration.svg')",
+      },
+      colors: {
+        'blue': '#3662E3',
+        'gray':'#364153',
+        'darkblue':'#111729',
+
+
       },
     },
   },
